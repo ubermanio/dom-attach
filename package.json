@@ -1,6 +1,6 @@
 {
   "name": "dom-attach",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "`dom-attach` is a simple, but batteries-included, library for attaching custom JavaScript / TypeScript logic to your DOM elements.",
   "repository": "ubermanio/dom-attach",
   "license": "MIT",
